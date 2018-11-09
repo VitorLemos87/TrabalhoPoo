@@ -1,0 +1,3 @@
+Devin Samuel Cayge,Vendedor,1200,1200,71.99445-4785,Rua Das Dores 
+Jackson Edson Salgueiro,Vendedor,1200,1200,71.9959-4698,Rua Arlindo de Freitas Jatoba
+Bruce Telvin Carvalho,Caixa,900,1200,71.8974-5423,Rua Das Floripas 

@@ -1,0 +1,3 @@
+Joao wayne,Propietario,100000,71.99445-4785,Bevely Hills | LA - USA
+Antoniel Wayne,Gerente da Loja Virtual,8000,71.99445-4785,Grove Street | LA - USA
+Vitor Wayne,CEO,15000,71.99445-4785,Miame Beach | MI - USA
